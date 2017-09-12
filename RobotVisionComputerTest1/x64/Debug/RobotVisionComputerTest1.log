@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\tompk\desktop\vision project\robotvisioncomputertest1\robotvisioncomputertest1\source.cpp(111): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\tompk\desktop\vision project\robotvisioncomputertest1\robotvisioncomputertest1\source.cpp(127): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  RobotVisionComputerTest1.vcxproj -> C:\Users\tompk\Desktop\vision project\RobotVisionComputerTest1\x64\Debug\RobotVisionComputerTest1.exe
